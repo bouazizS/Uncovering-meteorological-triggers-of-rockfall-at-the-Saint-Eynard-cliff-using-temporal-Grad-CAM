@@ -13,7 +13,6 @@ The repository also includes scripts for computing Grad-CAM explanations to inve
 
 | Script | Description |
 |---|---|
-
 | `train_vote.py` | Implements model training and/or prediction procedures based on a voting approach. |
 | `compare_benchmarking_models.py` | Compares the performance of different machine learning models for rockfall prediction using a benchmarking framework. |
 | `Train_Vote_inputs_combinations_hourly.py` | Trains models using hourly time series and different combinations of input variables using the best architecture. |
