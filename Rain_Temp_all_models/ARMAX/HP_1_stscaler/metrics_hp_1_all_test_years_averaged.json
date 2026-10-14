@@ -1,0 +1,155 @@
+{
+    "execution_time": 13429.424938678741,
+    "test_results": [
+        {
+            "test_year": [
+                2020
+            ],
+            "avg_test_balanced_accuracy": 0.5121167855872053,
+            "avg_test_precision": 0.9128109562433521,
+            "avg_test_recall": 0.8521554341226473,
+            "avg_test_F1_score": 0.877707119086398,
+            "avg_test_precision_class_0": 0.9547699250262358,
+            "avg_test_precision_class_1": 0.05141800887709028,
+            "avg_test_recall_class_0": 0.8869786692136263,
+            "avg_test_recall_class_1": 0.13725490196078433,
+            "avg_test_F1_score_class0": 0.9171022561780661,
+            "avg_test_F1_score_class1": 0.0689481282045042
+        },
+        {
+            "test_year": [
+                2016
+            ],
+            "avg_test_balanced_accuracy": 0.5014080498509563,
+            "avg_test_precision": 0.6560119540929742,
+            "avg_test_recall": 0.7726168791742563,
+            "avg_test_F1_score": 0.6981866813027922,
+            "avg_test_precision_class_0": 0.7901405662300535,
+            "avg_test_precision_class_1": 0.15259417607198827,
+            "avg_test_recall_class_0": 0.9696270665128797,
+            "avg_test_recall_class_1": 0.033189033189033185,
+            "avg_test_F1_score_class0": 0.8705097285150791,
+            "avg_test_F1_score_class1": 0.05141576384368924
+        },
+        {
+            "test_year": [
+                2023
+            ],
+            "avg_test_balanced_accuracy": 0.5358116698450934,
+            "avg_test_precision": 0.8152613188788709,
+            "avg_test_recall": 0.8188736681887366,
+            "avg_test_F1_score": 0.816734751906361,
+            "avg_test_precision_class_0": 0.8957091760518208,
+            "avg_test_precision_class_1": 0.1795270329267799,
+            "avg_test_recall_class_0": 0.900891632373114,
+            "avg_test_recall_class_1": 0.17073170731707316,
+            "avg_test_F1_score_class0": 0.8981566704796664,
+            "avg_test_F1_score_class1": 0.1733030051319467
+        },
+        {
+            "test_year": [
+                2022
+            ],
+            "avg_test_balanced_accuracy": 0.5203649397197785,
+            "avg_test_precision": 0.7596220321829088,
+            "avg_test_recall": 0.8048706240487062,
+            "avg_test_F1_score": 0.7776892803427298,
+            "avg_test_precision_class_0": 0.8549793691201838,
+            "avg_test_precision_class_1": 0.2221534058091778,
+            "avg_test_recall_class_0": 0.9275985663082437,
+            "avg_test_recall_class_1": 0.11313131313131312,
+            "avg_test_F1_score_class0": 0.889618543339944,
+            "avg_test_F1_score_class1": 0.14681525254025
+        },
+        {
+            "test_year": [
+                2021
+            ],
+            "avg_test_balanced_accuracy": 0.5416804864566059,
+            "avg_test_precision": 0.859982926112273,
+            "avg_test_recall": 0.8210045662100457,
+            "avg_test_F1_score": 0.8370502231335977,
+            "avg_test_precision_class_0": 0.9254433538558868,
+            "avg_test_precision_class_1": 0.12900814964191884,
+            "avg_test_recall_class_0": 0.8759535655058044,
+            "avg_test_recall_class_1": 0.2074074074074074,
+            "avg_test_F1_score_class0": 0.8986696239460028,
+            "avg_test_F1_score_class1": 0.14896691406174234
+        },
+        {
+            "test_year": [
+                2019
+            ],
+            "avg_test_balanced_accuracy": 0.5008459456133876,
+            "avg_test_precision": 0.8916236695940418,
+            "avg_test_recall": 0.8550989345509893,
+            "avg_test_F1_score": 0.8721952766912211,
+            "avg_test_precision_class_0": 0.9426140256833436,
+            "avg_test_precision_class_1": 0.05635307460738495,
+            "avg_test_recall_class_0": 0.9011627906976744,
+            "avg_test_recall_class_1": 0.10052910052910052,
+            "avg_test_F1_score_class0": 0.9211342294873026,
+            "avg_test_F1_score_class1": 0.07052862136493564
+        },
+        {
+            "test_year": [
+                2018
+            ],
+            "avg_test_balanced_accuracy": 0.5572987943955686,
+            "avg_test_precision": 0.7780809916113217,
+            "avg_test_recall": 0.7786910197869102,
+            "avg_test_F1_score": 0.7740931789257331,
+            "avg_test_precision_class_0": 0.866508324098402,
+            "avg_test_precision_class_1": 0.2796723903205059,
+            "avg_test_recall_class_0": 0.8741935483870967,
+            "avg_test_recall_class_1": 0.2404040404040404,
+            "avg_test_F1_score_class0": 0.8683343454269561,
+            "avg_test_F1_score_class1": 0.2429156950097496
+        },
+        {
+            "test_year": [
+                2017
+            ],
+            "avg_test_balanced_accuracy": 0.5385133916279776,
+            "avg_test_precision": 0.6888893357094175,
+            "avg_test_recall": 0.7394216133942161,
+            "avg_test_F1_score": 0.6992237233107166,
+            "avg_test_precision_class_0": 0.7887397858463199,
+            "avg_test_precision_class_1": 0.34963840873825464,
+            "avg_test_recall_class_0": 0.9070133963750985,
+            "avg_test_recall_class_1": 0.17001338688085676,
+            "avg_test_F1_score_class0": 0.8425448869382579,
+            "avg_test_F1_score_class1": 0.2122771191785876
+        },
+        {
+            "test_year": [
+                2015
+            ],
+            "avg_test_balanced_accuracy": 0.5234777493813638,
+            "avg_test_precision": 0.8417056748107685,
+            "avg_test_recall": 0.847488584474886,
+            "avg_test_F1_score": 0.843768431428731,
+            "avg_test_precision_class_0": 0.9139971015712618,
+            "avg_test_precision_class_1": 0.1144101086142902,
+            "avg_test_recall_class_0": 0.9190093708165996,
+            "avg_test_recall_class_1": 0.12794612794612792,
+            "avg_test_F1_score_class0": 0.9159809478966388,
+            "avg_test_F1_score_class1": 0.11726675060008393
+        },
+        {
+            "test_year": [
+                2014
+            ],
+            "avg_test_balanced_accuracy": 0.48264459040321106,
+            "avg_test_precision": 0.8484112391720697,
+            "avg_test_recall": 0.849923896499239,
+            "avg_test_F1_score": 0.848988506861668,
+            "avg_test_precision_class_0": 0.9177855927101256,
+            "avg_test_precision_class_1": 0.04462562576562947,
+            "avg_test_recall_class_0": 0.9193121693121693,
+            "avg_test_recall_class_1": 0.04597701149425287,
+            "avg_test_F1_score_class0": 0.9184179957635872,
+            "avg_test_F1_score_class1": 0.04456408372219166
+        }
+    ]
+}

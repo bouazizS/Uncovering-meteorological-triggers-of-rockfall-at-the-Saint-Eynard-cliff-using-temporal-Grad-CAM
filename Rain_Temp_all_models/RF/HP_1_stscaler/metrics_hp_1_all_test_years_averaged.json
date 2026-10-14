@@ -1,0 +1,17 @@
+{
+    "execution_time": 449.72607374191284,
+    "test_results": [
+        {
+            "avg_test_balanced_accuracy": 0.48685230797299767,
+            "avg_test_precision": 0.8507483395005456,
+            "avg_test_recall": 0.7287671232876713,
+            "avg_test_F1_score": 0.7815950473492882,
+            "avg_test_precision_class_0": 0.9179565297256053,
+            "avg_test_precision_class_1": 0.07206034241019922,
+            "avg_test_recall_class_0": 0.7744708994708995,
+            "avg_test_recall_class_1": 0.1992337164750958,
+            "avg_test_F1_score_class0": 0.839938496538021,
+            "avg_test_F1_score_class1": 0.10561577399017727
+        }
+    ]
+}
